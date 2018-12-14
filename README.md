@@ -28,7 +28,7 @@ Next stop is design for human health needs. Design should always consider its us
 # Memento Teahouse
 ![alt text](https://cdn.glitch.com/de9c58a6-84ed-4391-850d-a63d38046b0f%2Fdm5.jpg?1544825411120)
 With the help of VR, we can look at views without taking a tour; we can have the 3D graphic experience. We took a teahouse 3D model and rendered it in A-Frame. Meijie, who designed the original model, wanted to recreate a similar space to what appeared in the movie Memento directed by Christopher Nolan, which is a crime movie that involves a man trying to track down the murderer of his wife. Meijie took inspiration from the movie and tried to recreate a 3-dimensional space in which the indoor and outdoor space and blend seamlessly. Just like how the movie used both chronological and reverse chronological order to fulfill the plot with both stories in the past and present, the model Meijie created had colorful furniture and greyscale walls to create the contrast between the indoor and outdoor atmosphere.
-[Project Post Link Click Here!] (https://medium.com/@sylvia7lin/design-reflection-design-for-another-world-6de14230cc)
+[Project Post Link Click Here!](https://medium.com/@sylvia7lin/design-reflection-design-for-another-world-6de14230cc)
 
 HCI course is a worthwhile and fulfilling learning experience. I appreciate the projects Professor Roberts assigned to us. These projects provided tools to expanse my design choices. Now I look at my Windows 10 interface, I can see the minimal approach of the border in the taskbar; the white space in the google search engine is intentional; contrasting color of two panels in the email software. Good designs are part of our life.
 
