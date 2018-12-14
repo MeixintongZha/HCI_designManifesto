@@ -22,7 +22,7 @@ Autonomic technology that provide user interaction is a recently hot topic. We h
 # Sleepy Alarm with Affectiva
 ![alt text](https://cdn.glitch.com/de9c58a6-84ed-4391-850d-a63d38046b0f%2Fdm6.png?1544825413996)
 Next stop is design for human health needs. Design should always consider its user, so the wellbeing of a user is important. If your user has negative emotions, a good design should help mediate the user. Students were asked to design for user psychological needs by using Affectiva API. With concerns to the health of prolong duration computer users, our group decided to make a alarm to remind people to take a break when they are fatigued. Sleepy Alarm uses Affectiva API to detect the eye closure of the user. When the user feels sleepy, the web page will alarm you to take a break.The picture we chose for the web page interface are serene landscape photos with relaxing colors to de-stress users. We add quotes that promote making positive choices and optimism. Our goal is to make user feel peaceful and assured when they look at the interface.
-[Project Post Link Click Here!] (https://medium.com/@meixintongzha/a-design-document-sleepy-alarm-with-affectiva-320b2ced2967)
+[Project Post Link Click Here!](https://medium.com/@meixintongzha/a-design-document-sleepy-alarm-with-affectiva-320b2ced2967)
 
 # Design for Another World: 
 # Memento Teahouse
